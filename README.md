@@ -7,5 +7,9 @@ Proč je github sračka
   
  2. I placená verze umí jen soubory do 100mb
  
+ 3. Github podporuje pouze dvě uživatelské role/oprávnění
+ 
+ 4. Github nepodporuje server-side hooks
+ 
  
  Rada na závěr: USE GitLab !!!
